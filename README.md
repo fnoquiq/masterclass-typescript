@@ -8,7 +8,7 @@ Application to understand the logic of typescript
 
 ### Backend
 
-First enter in the backend folder using ``cd backend`.
+First enter in the backend folder using `cd backend`.
 
 Type in the terminal `yarn` and then `yarn dev:server` to compile and raise the server.
 
